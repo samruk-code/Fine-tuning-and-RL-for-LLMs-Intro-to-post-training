@@ -1,6 +1,6 @@
 # Fine-Tuning and RL for LLMs: Intro to Post-Training
 
-> **Course:** [Fine-Tuning and Reinforcement Learning for LLMs: Intro to Post-Training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/) — DeepLearning.AI × AMD  
+> **Course:** [Fine-Tuning and Reinforcement Learning for LLMs: Intro to Post-Training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/) — DeepLearning.AI | AMD  
 > **Instructor:** Sharon Zhou, VP of AI at AMD  
 > **Certificate:** Awarded upon successful completion of all graded labs
 
